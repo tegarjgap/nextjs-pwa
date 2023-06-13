@@ -6,7 +6,7 @@ const APP_NAME = "next-pwa example";
 const APP_DESCRIPTION = "This is an example of using next-pwa plugin";
  
 export const metadata: Metadata = {
-  title: "PWA 💖 Next.js",
+  title: "PWA Starter - NextJS 13.4.5",
   description: APP_DESCRIPTION,
   twitter: {
     card: "summary_large_image",
